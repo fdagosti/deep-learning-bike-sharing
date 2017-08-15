@@ -30,7 +30,7 @@ then run the following to open the notebook server:
 jupyter notebook
 ```
 
-in your browser, open `dlnd-your-first-neural-network.ipynb`
+in your browser, open `Your-first-neural-network.ipynb`
 
 Then play around in the notebook. Happy hacking !!
 
